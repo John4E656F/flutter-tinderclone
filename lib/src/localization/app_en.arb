@@ -1,0 +1,6 @@
+{
+  "appTitle": "tinderclone",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
